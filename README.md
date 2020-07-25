@@ -1,7 +1,7 @@
 # qaM
 (pronounced "cum")
 
-qaM is a minimalistic quick acces menu for linux systems
+qaM is a minimalistic quick acces menu for websites and applications on linux systems
 
 # Getting started
 Needed python modules:
