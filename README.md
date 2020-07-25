@@ -3,7 +3,7 @@
 
 qaM is a minimalistic quick acces menu for websites and applications on linux systems
 
-https://raw.githubusercontent.com/prononoob/qaM/master/Screenshot%20from%202020-07-25%2017-10-53.png
+![Screenshot](https://raw.githubusercontent.com/prononoob/qaM/master/Screenshot%20from%202020-07-25%2017-10-53.png)
 
 # Getting started
 Needed python modules:
