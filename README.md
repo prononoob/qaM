@@ -12,7 +12,7 @@ Needed python modules:
 + time
 + os
 
-After downloading the .py file bind ```python /path/to/file/qaM.py``` to a shortcut (for example in gnome go to keyboard shortcuts setting and set the command to "python path/to/file/qaM.py"
+After downloading the .py file bind ```python /path/to/file/qaM.py``` to a shortcut (for example in gnome go to keyboard shortcuts setting and set the command to "python path/to/file/qaM.py")
 
 # Changing the buttons
 To change the function of a button change the attribute of said function (by default lines 9 to 19)
