@@ -9,7 +9,6 @@ qaM is a minimalistic quick acces menu for websites and applications on linux sy
 Needed python modules:
 + tkinter
 + webbrowser
-+ time
 + os
 
 After downloading the .py file bind ```python /path/to/file/qaM.py``` to a shortcut (for example in gnome go to keyboard shortcuts setting and set the command to "python path/to/file/qaM.py")
